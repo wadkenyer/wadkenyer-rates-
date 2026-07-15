@@ -1,5 +1,8 @@
 {
-  "usd_to_sdg": 6500,
-  "history": [3500, 3550, 3580, 3599],
-  "last_updated": "2026-06-23"
+  "usd_to_sdg": 5600,
+  "usd_to_sdg_official": 600,
+  "parallel_range_low": 5400,
+  "parallel_range_high": 5800,
+  "source": "sudafax.com",
+  "last_updated": "2026-07-16"
 }
