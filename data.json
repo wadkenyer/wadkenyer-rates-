@@ -1,8 +1,8 @@
 {
   "usd_to_sdg": 8300,
   "usd_to_sdg_official": 3750,
-  "parallel_range_low": 7900,
-  "parallel_range_high": 8200,
+  "parallel_range_low": 8100,
+  "parallel_range_high": 8500,
   "source": "sudafax.com",
   "last_updated": "2026-10-03"
 }
