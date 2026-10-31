@@ -1,10 +1,10 @@
 {
-  "usd_to_sdg": 10144,
-  "usd_to_sdg_official": 4200,
+  "usd_to_sdg": 10056,
+  "usd_to_sdg_official": 4300,
   "parallel_range_low": 8100,
   "parallel_range_high": 10285,
   "source": "wadkenyer.com",
-  "last_updated": "2026-10-29",
+  "last_updated": "2026-10-"31",
   "gold_gram_price": 1124097,
-  "previous_usd_to_sdg": 10255
+  "previous_usd_to_sdg": 10155
 }
